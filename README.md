@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eyerusalem Yared</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Developer. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.</h3>
+<h3 align="center">Welcome to my GitHub profile! I am a passionate and dedicated Backend Developer. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyared1221&label=Profile%20views&color=0e75b6&style=flat" alt="eyared1221" /> </p>
 
-- 🔭 I’m currently working on **Learning Management System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyared1221](https://github.com/eyared1221)
 
